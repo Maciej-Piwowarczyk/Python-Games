@@ -1,2 +1,2 @@
 # Python-Games
-A collection of small games as I continue to learn Python
+A collection of small games for recreation and for learning Python
