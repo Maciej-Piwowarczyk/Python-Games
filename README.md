@@ -7,3 +7,6 @@ Games in the order that I add them and a small description of each:
 
 02_Dodge_THIS
   My first attempt at using the pygame package. Introduced me to user inputs (arrow keys) and the basics of pygame
+
+03_Psuedorandom_Examples 
+  Five different examples of psuedorandom sequences. Used in a presentation about psuedorandom number generators
